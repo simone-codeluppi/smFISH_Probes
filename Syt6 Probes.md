@@ -1,4 +1,4 @@
-# Gene Name: Syt6    #
+### Gene Name: Syt6 ###
 
 __Species:__
 Mus Musculus
@@ -28,24 +28,24 @@ __Number of Probes__
 
 __Probes__
 
-Probe #	Probe (5'-> 3')	Probe Position*	Percent GC
-1	tctggagagtctctgaagca	1	50.0%
-2	ctgggatgtctggggaagtg	106	60.0%
-3	tctttgaccgacatctgcac	131	50.0%
-4	ctttgtgtggcgcatgatgt	153	50.0%
-5	ctggagacatgcatctgtcg	239	55.0%
-6	cttgatacggccaatactgg	306	50.0%
-7	acttctgcttgtaaagctca	328	40.0%
-8	ttcaggatgcgcacaatcag	437	50.0%
-9	cttggcagggaggtcaaagg	459	60.0%
-10	gggtcagaacttccgcaaaa	482	50.0%
-11	ggcaggaggtagatcttaac	506	50.0%
-12	tagggcacggggaagtggaa	593	60.0%
-13	agacactgagatgcagcttg	631	50.0%
-14	cgggagaagcggtcaaagtc	653	60.0%
-15	gaggcctcaaagagattgtc	701	50.0%
-16	tactggatgtccttccagat	743	45.0%
-17	aagtccacactttcactagt	767	40.0%
-18	ggtagcagagggagaacatg	796	55.0%
-19	acacttgatcactgtgaggg	837	50.0%
-20	gatgtccattgctttgagat	861	40.0%
+Probe #	Probe (5'-> 3')	Probe Position*	Percent GC  
+1	tctggagagtctctgaagca	1	50.0%  
+2	ctgggatgtctggggaagtg	106	60.0%  
+3	tctttgaccgacatctgcac	131	50.0%  
+4	ctttgtgtggcgcatgatgt	153	50.0%  
+5	ctggagacatgcatctgtcg	239	55.0%  
+6	cttgatacggccaatactgg	306	50.0%  
+7	acttctgcttgtaaagctca	328	40.0%  
+8	ttcaggatgcgcacaatcag	437	50.0%  
+9	cttggcagggaggtcaaagg	459	60.0%  
+10	gggtcagaacttccgcaaaa	482	50.0%  
+11	ggcaggaggtagatcttaac	506	50.0%  
+12	tagggcacggggaagtggaa	593	60.0%  
+13	agacactgagatgcagcttg	631	50.0%  
+14	cgggagaagcggtcaaagtc	653	60.0%  
+15	gaggcctcaaagagattgtc	701	50.0%  
+16	tactggatgtccttccagat	743	45.0%  
+17	aagtccacactttcactagt	767	40.0%  
+18	ggtagcagagggagaacatg	796	55.0%  
+19	acacttgatcactgtgaggg	837	50.0%  
+20	gatgtccattgctttgagat	861	40.0%  
